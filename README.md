@@ -1,4 +1,12 @@
-### Android-Music-Player
+## Android-Music-Player
+
+## PURPOSE SOFTWARE ENGINEERING PROJECT 
+
+
+MIS : 111508062
+      111508061
+      111508071
+
 
 Music Player with bass,treble,softness tuner Equalizer.
 
